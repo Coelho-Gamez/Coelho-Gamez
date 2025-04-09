@@ -2,7 +2,7 @@
 - 👀 I’m interested in economics, game deving, and java
 - 🌱 I’m currently learning Unity & C#
 - 📫 How to reach me: brunoterzicoelho@gmail.com
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: He/Him
   
 
 <!---
